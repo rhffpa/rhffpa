@@ -5,6 +5,7 @@
 <div align="center" class="all">
 
 <h1 align="center">Hi. I'm rhffpa. </h1><br>
+<!---
 <div class="a"><p style="line-height=200%;">I'm a college student majoring in Computer Sceince & Engineering.<br>
 I'm building my knowledge bases in Github</a>.<br>
 My ultimate goal is to become a master in computer.<br>
@@ -15,7 +16,7 @@ JAVA<br>
 HTML & CSS & JS<br>
 Electron<br>
 Node.js<br>
-Network<br>
+Network<br> --->
 
 <!---## GitHub Stats
 
