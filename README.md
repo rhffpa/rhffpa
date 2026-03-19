@@ -26,6 +26,8 @@ Network<br> --->
 --->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhffpa&layout=compact&theme=nightowl)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhffpa&theme=nightowl&rank_icon=github)
+
 </div>
   
   🍀
